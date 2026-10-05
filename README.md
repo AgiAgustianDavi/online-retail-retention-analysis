@@ -236,8 +236,7 @@ Bagian ini sengaja ditulis jujur:
 - **SQL (PostgreSQL, DBeaver):** pembersihan data, definisi pelanggan baru/lama, retention, jarak antar order.
 - **Power BI:** dashboard satu halaman dengan judul grafik yang menyampaikan kesimpulan.
 - **Kerangka analisis:** Ask, Prepare, Process, Analyze, Share, Act.
-- **Kebiasaan kerja:** menulis hipotesis sebelum melihat hasil, mencatat setiap keputusan pembersihan, mengecek total angka di setiap langkah, dan menulis batasan data dengan jelas.
 
 ---
 
-**Dibuat oleh:** [Nama] | [LinkedIn] | [Email]
+**Dibuat oleh:** [Agi Agustian Davi] | [[AgiAgustianDavi](https://www.linkedin.com/in/agi-agustian-davi/)] | [mailto:agidavi6@gmail.com]
