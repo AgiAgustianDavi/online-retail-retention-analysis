@@ -7,7 +7,7 @@ Proyek portofolio analisis data: dari pertanyaan bisnis, pembersihan data dengan
 
 ---
 
-## Ringkasan dalam 1 menit
+## Ringkasan eksekutif
 
 **Pertanyaan:** Kalau ada tambahan anggaran bulan depan, sebaiknya dipakai untuk **mempertahankan pelanggan lama** (retensi) atau **mencari pelanggan baru** (akuisisi)?
 
