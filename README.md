@@ -239,4 +239,4 @@ Bagian ini sengaja ditulis jujur:
 
 ---
 
-**Dibuat oleh:** [Agi Agustian Davi] | [[AgiAgustianDavi](https://www.linkedin.com/in/agi-agustian-davi/)] | [mailto:agidavi6@gmail.com]
+**Dibuat oleh:** Agi Agustian Davi | [AgiAgustianDavi](https://www.linkedin.com/in/agi-agustian-davi/) | [Email](mailto:agidavi6@gmail.com)
